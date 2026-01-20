@@ -4,6 +4,9 @@ import com.udacity.catpoint.data.ArmingStatus;
 import com.udacity.catpoint.service.SecurityService;
 import com.udacity.catpoint.service.StyleService;
 import net.miginfocom.swing.MigLayout;
+import com.udacity.catpoint.service.SecurityService;
+import com.udacity.catpoint.service.StyleService;
+
 
 import javax.swing.*;
 import java.util.Arrays;

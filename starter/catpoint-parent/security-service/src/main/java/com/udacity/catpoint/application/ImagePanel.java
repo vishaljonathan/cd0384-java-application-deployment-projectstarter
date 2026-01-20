@@ -4,6 +4,9 @@ import com.udacity.catpoint.data.AlarmStatus;
 import com.udacity.catpoint.service.SecurityService;
 import com.udacity.catpoint.service.StyleService;
 import net.miginfocom.swing.MigLayout;
+import com.udacity.catpoint.service.SecurityService;
+import com.udacity.catpoint.service.StyleService;
+
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
